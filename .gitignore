@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environnements virtuels
+.venv/
+SemiSupervise/
+
+# Données
+mri_dataset_brain_cancer_oc/
+*.jpg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
