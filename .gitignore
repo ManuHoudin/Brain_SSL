@@ -11,6 +11,7 @@ SemiSupervise/
 # Données
 mri_dataset_brain_cancer_oc/
 *.jpg
+*.pdf
 
 # Jupyter
 .ipynb_checkpoints/
